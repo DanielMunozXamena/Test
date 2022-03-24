@@ -1,3 +1,5 @@
+# Ejecución
+
 COMANDO PARA EJECUTAR EL PROGRAMA: python test.py board snake depth
 
 	* board: 'filas,columnas'
